@@ -1,0 +1,1 @@
+# react-typescript-eslint-template
